@@ -1,1 +1,1 @@
-## astikqrcodegenerator.netlify.app
+## abhishekqrcodegenerator.netlify.app
